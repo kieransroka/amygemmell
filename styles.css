@@ -105,6 +105,10 @@ nav {
     filter: sepia(10%) grayscale(10%) brightness(106%) saturate(67%);
 }
 
+#about-sec {
+    padding-left: 36px !important;
+}
+
 .port-img {
     width: 100%;
     height: auto;
